@@ -24,4 +24,4 @@ El resultado sería el siguiente:
 - El color de las etiquetas `h1` y `p` debe ser `blueviolet`
 - El font size del `h1` debe ser `4rem` y el `padding-top` debe ser `10rem`
 - La class `bigger-text` debe tener un font size de `1.5rem`
-- La class `container` debe tener un `width` y un `height` de `800px`y tiene que estar centrada en la pantalla.
+- La class `container` debe tener un `width` y un `height` de `800px`, tiene que estar centrada en la pantalla y tiene que tener como background la imagen `img/window.png`
