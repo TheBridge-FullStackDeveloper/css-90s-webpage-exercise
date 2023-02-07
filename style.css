@@ -1,26 +1,32 @@
+/* Añado la imagen de background con un fondo negro */
 body{
     background-image  : url(img/emoji.png);
     background-color  : black;
 }
 
+/* Centro el header, h1 y el paragrafo */
 header, h1, p {
     text-align     : center;
     color          : blueviolet;
 }
 
+/* Se ajusta el ultimo texto con b */
 b{
     padding-left: 17px;
 }
 
+/* Se añade tamaño a la fuente y espaciado de arriba */
 h1 {
     font-size         : 4rem;
     padding-top       : 10rem;
 }
 
+/* Se ajusta el tamaño del texto en el main */
 .bigger-text{
     font-size         : 1.5rem;
 }
 
+/* Se ajusta el contenedor con el background window.png */
 .container {
     width             : 880px;
     height            : 800px;
