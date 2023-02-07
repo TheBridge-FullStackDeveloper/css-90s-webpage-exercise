@@ -2,6 +2,7 @@
 body{
     background-image  : url(img/emoji.png);
     background-color  : black;
+    background-size   : 55px 55px;
 }
 
 /* Centro el header, h1 y el paragrafo */
