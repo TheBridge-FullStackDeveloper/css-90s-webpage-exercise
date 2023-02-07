@@ -1,0 +1,33 @@
+html {
+    background-image: url(img/emoji.png);
+    background-repeat: repeat;
+    background-color: black;
+}
+
+
+
+div.container {
+    background-image: url(img/window.png); 
+    background-repeat: no-repeat;  
+    text-align: center;
+    width: 800px;
+    height: 800px;
+    position: absolute;
+    left: 1750px;
+   
+  
+}
+
+h1, p {
+    color: blueviolet;
+    text-align: center;
+}
+
+h1 {
+    font-size: 4rem;
+    padding-top: 10rem;
+}
+
+p.bigger-text {
+    font-size: 1.5rem;
+}
