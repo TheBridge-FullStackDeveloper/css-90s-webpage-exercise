@@ -3,13 +3,13 @@ body{
     background-color  : black;
 }
 
-header, h1, p, b {
-    text-align: center;
+header, h1, p {
+    text-align     : center;
+    color          : blueviolet;
 }
 
-
-h1, p{
-    color             : blueviolet;
+b{
+    padding-left: 17px;
 }
 
 h1 {
