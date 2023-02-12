@@ -1,0 +1,44 @@
+
+body {
+    background-color: black;
+    background-image: url(img/emoji.png);
+}
+
+h1, p {
+    color: blueviolet;
+    text-align: center;
+}
+
+h1 {
+    font-size: 4rem;
+    padding-top: 5rem;
+    display: inline-block;
+    margin: 0;
+    width: 100%;
+}
+
+.bigger-text {
+    font-size: 1.5rem;
+}
+
+.container {
+    width: 800px;
+    height: 800px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -400px;
+    margin-left: -400px;
+    background-image: url(img/window.png);
+    background-repeat: round;
+}
+
+
+
+img{
+    position: relative;
+    margin-left: 50%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    transform: translate(-50%);
+}
