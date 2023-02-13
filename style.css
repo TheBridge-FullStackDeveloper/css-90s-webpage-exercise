@@ -1,0 +1,30 @@
+h1 {
+    font-size: 4rem;
+    padding-top: 10rem;
+  }
+  
+  
+  body {
+      background-color: black;
+      background-image: url(img/emoji.png);
+      background-repeat: repeat;
+      text-align: center;
+    }
+  
+  h1, p {
+        color:blueviolet;
+  }  
+  
+  .bigger-text {
+    font-size: 1.5rem;
+  }
+  
+  .container {
+      background-image: url(img/window.png);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+      width: 800px;
+      height: 800px;
+      margin: auto;    
+  }
