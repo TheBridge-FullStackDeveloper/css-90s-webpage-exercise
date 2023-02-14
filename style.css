@@ -1,0 +1,22 @@
+.container{
+    background-image: url("img/window.png");
+    width: 800px;
+    height: 800px;
+    text-align: center;
+    position: relative;
+    left: 500px;
+}
+h1, .bigger-text{
+    color: blueviolet;
+}
+h1{
+    font-size: 4rem;
+    padding-top: 10rem;
+}
+.bigger-text{
+    font-size: 1,5rem;
+}
+body{
+    background-image: url("img/emoji.png");
+    background-color: black;
+}
