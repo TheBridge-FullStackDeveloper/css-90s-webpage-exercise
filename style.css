@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    width: 100vw;
+    height: 100vh;
+   
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(img/emoji.png);
+    background-color: black;
+    margin: 0%;
+
+
+}
+.container{
+   
+    width: 800px;
+    height: 800px;
+    background-image: url(img/window.png);
+    text-align: center;
+
+  
+}
+.container p{
+    color:  blueviolet;
+    
+}
+.container h1{
+    color: blueviolet;
+    font-size: 4rem;
+    padding-top: 10rem;
+   
+    
+}
+.bigger-text p{
+    font-size: 1.5rem;
+}
