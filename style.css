@@ -1,0 +1,33 @@
+body {
+    padding: 25px;
+    background-image: url("img/emoji.png");
+    background-color: black;
+}
+
+.giphy {
+    background: url("window.png");
+    background-position: center;
+    background-size: contain;
+    padding: 5px 10px;
+    justify-content: center;
+    display: flex;
+      
+}
+.container{
+    background-image: url("img/window.png");
+    background-color: white;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 800px;
+    height: 665px;
+    margin: auto;
+}
+h1, p {
+    color: blueviolet;
+    font-size: 4em;
+ 
+}
+.bigger-text{
+    font-size: 1.5em;
+}
