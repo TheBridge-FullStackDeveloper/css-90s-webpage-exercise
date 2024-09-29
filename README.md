@@ -12,10 +12,8 @@ El resultado sería el siguiente:
 
 ## Instrucciones
 
-1. Fork de este repositorio.
-2. Clona el repositorio en tu equipo.
-3. Crea un archivo `style.css`.
-4. Crea la estructura de CSS en el archivo `style.css`.
+1. Crea un archivo `style.css`.
+2. Crea la estructura de CSS en el archivo `style.css`.
 
 ## Iteraciones
 
