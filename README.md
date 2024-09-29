@@ -17,9 +17,29 @@ El resultado sería el siguiente:
 
 ## Iteraciones
 
-- Todos los textos de la página web deben tener un align center.
-- La imagen de background debe ser `img/emoji.png`
-- El color de las etiquetas `h1` y `p` debe ser `blueviolet`
-- El font size del `h1` debe ser `4rem` y el `padding-top` debe ser `10rem`
-- La class `bigger-text` debe tener un font size de `1.5rem`
-- La class `container` debe tener un `width` y un `height` de `800px`, tiene que estar centrada en la pantalla y tiene que tener como background la imagen `img/window.png`
+1. **Alineación del texto**: Todo el texto de la página debe estar centrado utilizando la propiedad `text-align: center`.
+
+2. **Imagen de fondo del cuerpo**: El fondo de la página debe ser la imagen `img/emoji.png`.
+
+3. **Estilo de las etiquetas `h1` y `p`**:
+   - El color del texto debe ser `blueviolet`.
+   - El tamaño de la fuente del `h1` debe ser `4rem` con un `padding-top` de `10rem`.
+
+4. **Clase `bigger-text`**: 
+   - El tamaño de la fuente debe ser `1.5rem`.
+
+5. **Clase `left-text`**:
+   - El contenido debe estar alineado a la izquierda con `float: left;`.
+   - El estilo de fuente debe ser **itálico**.
+
+6. **Clase `right-text`**:
+   - El contenido debe estar alineado a la derecha con `float: right;`.
+   - El color del texto debe ser **verde**.
+
+7. **Clase `container`**:
+   - El contenedor debe tener un **ancho** y **alto** de `800px`.
+   - Debe estar centrado en la página con `margin: auto;`.
+   - El fondo del contenedor debe ser la imagen `img/window.png` con `background-size: contain;`.
+
+8. **Enlace (`<a>`)**:
+   - El enlace debe cambiar el color del texto a **rojo** cuando se haga `hover` sobre él.

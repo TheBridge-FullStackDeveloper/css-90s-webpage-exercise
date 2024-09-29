@@ -17,6 +17,17 @@ h1 {
 
 .bigger-text {
   font-size: 1.5rem;
+  width: 50%;
+}
+
+.left-text {
+  float: left;
+  font-style: italic;
+}
+
+.right-text {
+  float: right;
+  color: green;
 }
 
 .container {
@@ -27,4 +38,9 @@ h1 {
   height: 800px;
   width: 800px;
   margin: auto;
+  padding: 0px 42px;
+}
+
+a:hover {
+  color: red;
 }
